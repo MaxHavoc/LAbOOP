@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+c:\ооп\лаба7\cppwinform1\Storage.h(208): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(209): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(210): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(213): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(214): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(255): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(260): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(261): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(262): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(263): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(264): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(265): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(270): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(271): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(272): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\Storage.h(273): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\ооп\лаба7\cppwinform1\MyForm.h(881): warning C4101: j: неиспользованная локальная переменная
+c:\ооп\лаба7\cppwinform1\MyForm.h(900): warning C4101: j: неиспользованная локальная переменная
+c:\ооп\лаба7\cppwinform1\MyForm.h(919): warning C4101: j: неиспользованная локальная переменная
+c:\ооп\лаба7\cppwinform1\MyForm.h(938): warning C4101: j: неиспользованная локальная переменная
+c:\ооп\лаба7\cppwinform1\MyForm.h(957): warning C4101: j: неиспользованная локальная переменная
+c:\ооп\лаба7\cppwinform1\MyForm.h(976): warning C4101: j: неиспользованная локальная переменная
+  CppWinForm1.vcxproj -> C:\ООП\лаба7\Debug\CppWinForm1.exe

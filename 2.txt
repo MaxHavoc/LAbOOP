@@ -1,0 +1,9 @@
+4
+circle 225 119 1 40
+circle 396 137 1 40
+circle 249 358 1 40
+group 2
+group 2
+circle 284 234 1 40
+circle 355 255 1 40
+circle 386 352 1 40
